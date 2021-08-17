@@ -1,0 +1,16 @@
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\bin\Debug\net5.0\Console5.exe
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\bin\Debug\net5.0\Console5.deps.json
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\bin\Debug\net5.0\Console5.runtimeconfig.json
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\bin\Debug\net5.0\Console5.runtimeconfig.dev.json
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\bin\Debug\net5.0\Console5.dll
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\bin\Debug\net5.0\ref\Console5.dll
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\bin\Debug\net5.0\Console5.pdb
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\obj\Debug\net5.0\Console5.csproj.AssemblyReference.cache
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\obj\Debug\net5.0\Console5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\obj\Debug\net5.0\Console5.AssemblyInfoInputs.cache
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\obj\Debug\net5.0\Console5.AssemblyInfo.cs
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\obj\Debug\net5.0\Console5.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\obj\Debug\net5.0\Console5.dll
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\obj\Debug\net5.0\ref\Console5.dll
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\obj\Debug\net5.0\Console5.pdb
+C:\Users\Nazar\Desktop\C#_Lessons\Homeworks\Homework5_14.08.2021\Console5\obj\Debug\net5.0\Console5.genruntimeconfig.cache
